@@ -1,7 +1,6 @@
 import React from 'react';
 import MarketingApp from '../components/MarketingApp';
 
-// My App
 export default () => {
     return (
         <div>
